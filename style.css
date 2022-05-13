@@ -1,0 +1,28 @@
+body {
+    background-image: url("img-bg.jpg");
+}
+
+.heading {
+    font-size: 35px;
+    padding: 10px;
+    top: 0;
+}
+
+.heading p {
+    color: crimson;
+}
+
+.sub-content {
+    font-size: 25px;
+    color: #fff !important;
+}
+
+.sub-content span {
+    font-weight: bold;
+}
+
+canvas, video {
+    border-radius: 10px;
+    box-shadow: 0 0 5px 5px grey;
+    background-color: #333;
+}
